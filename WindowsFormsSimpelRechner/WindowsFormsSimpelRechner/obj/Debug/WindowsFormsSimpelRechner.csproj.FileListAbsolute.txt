@@ -1,0 +1,11 @@
+C:\Users\itzce\Documents\AIIT\WindowsFormsSimpelRechner\WindowsFormsSimpelRechner\bin\Debug\WindowsFormsSimpelRechner.exe.config
+C:\Users\itzce\Documents\AIIT\WindowsFormsSimpelRechner\WindowsFormsSimpelRechner\bin\Debug\WindowsFormsSimpelRechner.exe
+C:\Users\itzce\Documents\AIIT\WindowsFormsSimpelRechner\WindowsFormsSimpelRechner\bin\Debug\WindowsFormsSimpelRechner.pdb
+C:\Users\itzce\Documents\AIIT\WindowsFormsSimpelRechner\WindowsFormsSimpelRechner\obj\Debug\WindowsFormsSimpelRechner.csproj.AssemblyReference.cache
+C:\Users\itzce\Documents\AIIT\WindowsFormsSimpelRechner\WindowsFormsSimpelRechner\obj\Debug\WindowsFormsSimpelRechner.csproj.SuggestedBindingRedirects.cache
+C:\Users\itzce\Documents\AIIT\WindowsFormsSimpelRechner\WindowsFormsSimpelRechner\obj\Debug\WindowsFormsSimpelRechner.Form1.resources
+C:\Users\itzce\Documents\AIIT\WindowsFormsSimpelRechner\WindowsFormsSimpelRechner\obj\Debug\WindowsFormsSimpelRechner.Properties.Resources.resources
+C:\Users\itzce\Documents\AIIT\WindowsFormsSimpelRechner\WindowsFormsSimpelRechner\obj\Debug\WindowsFormsSimpelRechner.csproj.GenerateResource.cache
+C:\Users\itzce\Documents\AIIT\WindowsFormsSimpelRechner\WindowsFormsSimpelRechner\obj\Debug\WindowsFormsSimpelRechner.csproj.CoreCompileInputs.cache
+C:\Users\itzce\Documents\AIIT\WindowsFormsSimpelRechner\WindowsFormsSimpelRechner\obj\Debug\WindowsFormsSimpelRechner.exe
+C:\Users\itzce\Documents\AIIT\WindowsFormsSimpelRechner\WindowsFormsSimpelRechner\obj\Debug\WindowsFormsSimpelRechner.pdb
